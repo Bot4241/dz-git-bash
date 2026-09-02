@@ -2,3 +2,10 @@
 !.gitignore
 !.bashrc
 !.bash_profile
+.bash_profile
+.bashrc
+create-directories.sh
+create-directory2.sh
+prepare-and-deploy
+system_status.sh
+vendors/
