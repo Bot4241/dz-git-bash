@@ -1,0 +1,9 @@
+   #!/bin/bash
+   mkdir -p db-subsystem
+   builder-connect db-subsystem
+   builder-creds db-subsystem
+   builder-repo db-subsystem
+   builder-build db-subsystem
+   builder-test db-subsystem
+   builder-deploy db-subsystem
+   builder-status db-subsystem
